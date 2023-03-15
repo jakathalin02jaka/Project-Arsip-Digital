@@ -1,7 +1,6 @@
 # Selamat Datang Di Aplikasi Arsip Digital
 
-Aplikasi ini adalah Aplikasi Pengarsipan data secara Digital, yang dipelopori oleh KangR dan dibuat untuk menyelesaikan tugas
-kuliah yaitu untuk memudahkan dalam hal pengarsipan dan juga memudahkan mencari document tersebut.
+Aplikasi ini adalah Aplikasi Pengarsipan data secara Digital,  untuk memudahkan dalam hal pengarsipan dan juga memudahkan mencari document tersebut.
 
 Aplikasi ini dibuat menggunakan :
   1. PHP Codeigniter 3
